@@ -1,10 +1,14 @@
 # Home-Automation-using-rpi
 A simple home automation project using raspberry pi 3 Model B.
 There are 3 parts in this project.
+
           1. Home Appliances Control using Blynk library and app.
+
           2. LCD status display of the appliances in real time.
+
           3. Keypad Lock with status notification on phone using IFttt.
-	  4. Automated home appliances control.
+
+          4. Automated home appliances control.
  
  Part 1
  
