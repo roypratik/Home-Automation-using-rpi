@@ -19,5 +19,6 @@ There are 3 parts in this project.
  The door lock representing the front door of an house is being represented by a servo motor. A 4x4 keypad lock is being used to automate the whole system.The system is interfaced with ifttt and as soon as the door is opened upon correct code, a notifiaction will be sent to the user's cell phone. Upon entering wrong code for thrice an alarm will be reaised using a buzzer and a notification will also be sent at the same time. The system won't accept the right code after the alarm is raised until it as been reset. The change in duty cycle of the servo motor represents the unlocking and locking of the door lock.
  
  Part 4
+ 
 The automated system in which enviromental factors controls the appliances. 
 The sensors used are DHT11, PIR sensor and LIGHT sensor. When the temperature of the room is greater than a certain value then the DC motor that represents a ceiling fan automatically turns on. The Light sensor senses amount of lighting in the environment and automatically controls the lighting system of the room. The PIR sensor detects motion and automatically switches the lights of the room on.
